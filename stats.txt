@@ -1,0 +1,7 @@
+Statistiche della partita
+Il computer poteva prevedere le mosse con un accuratezza del 40%
+Il computer ha vinto la partita
+Su 4 vittorie da ottenere per vincere la partita, il giocatore ne ha: 
+vinte 3
+perse 4
+pareggiate 4
